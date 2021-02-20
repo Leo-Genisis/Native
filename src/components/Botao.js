@@ -14,5 +14,5 @@ const Botao = (props) => {
         </SafeAreaView >
     )
 }
-
+//comenteario para commit
 export default Botao
